@@ -40,7 +40,7 @@ public class Communication : MonoBehaviour
         while (running)
         {
             SendAndReceiveData();
-            print(receivedPos);
+            // print(receivedPos);
         }
     }
 
